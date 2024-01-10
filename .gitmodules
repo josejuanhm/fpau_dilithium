@@ -1,0 +1,9 @@
+[submodule "pqc_sw/dilithium"]
+	path = pqc_sw/dilithium
+	url = https://github.com/josejuanhm/dilithium.git
+[submodule "riscv_cores/orca"]
+	path = riscv_cores/orca
+	url = https://github.com/josejuanhm/orca.git
+[submodule "riscv_cores/riscv-stee-core"]
+	path = riscv_cores/riscv-stee-core
+	url = https://github.com/josejuanhm/riscv-steel-core.git
