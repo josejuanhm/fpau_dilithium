@@ -4,6 +4,6 @@
 [submodule "riscv_cores/orca"]
 	path = riscv_cores/orca
 	url = https://github.com/josejuanhm/orca.git
-[submodule "riscv_cores/riscv-stee-core"]
+[submodule "riscv_cores/riscv-steel-core"]
 	path = riscv_cores/riscv-steel-core
 	url = https://github.com/josejuanhm/riscv-steel-core.git
