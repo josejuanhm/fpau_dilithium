@@ -36,7 +36,7 @@ Based on the Xilinx tools, the following are the software and hardware versions 
 
 Since the structure of this repository contains forks as subdmodules, it shall be cloned with the following command to get all the files locally:
 
-    git clone --recurse-submodules https://github.com/josejuanhm/fpau.git
+    git clone --recurse-submodules https://github.com/josejuanhm/fpau_dilithium.git
 
 As a **prerequisite**, the riscv-gnu-toolchain repository shall be cloned and the following files shall be replaced with the ones in this repository ([opcodes](pqc_sw/opcodes/) folder) before building the compiler:
 * binutils/opcodes/riscv-opc.c with [riscv-opc.c](pqc_sw/opcodes/riscv-opc.c)
