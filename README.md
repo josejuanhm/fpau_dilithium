@@ -89,4 +89,4 @@ Then, follow these steps to run an FPAU accelerated CRYSTALS-Dilithium scheme wi
 
 Data should start to be received and visualized in the serial terminal after succesfully loading the program.
 
-**For simulation**, follow step 1 and the instructions contained in the [RISC-V cores readme file](riscv_cores/README.md)
+**For simulation**, follow step 1 and the instructions contained in the [RISC-V cores readme file](riscv_cores/README.md). The software should be compiled with the UART macro commented in the [fpau_switches.h](pqc_sw/dilithium/ref/fpau_switches.h) file.
